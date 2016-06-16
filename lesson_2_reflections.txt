@@ -9,3 +9,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 	This can be used to avoid pushing more of one commit per logical change, because it gives the user a chance to review their actions.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	Branches are helpful when you want to work on experimental features and concepts on projects while keeping a stable master branch.
+How do the diagrams help you visualize the branch structure?
+	Diagrams help you visualize the branch by showing the commits followed by their parent commits ending on the initial commit.
+	This is helpful to find if commits would be reachable by other commits.
