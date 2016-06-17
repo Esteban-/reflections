@@ -1,5 +1,9 @@
 When would you want to create a remote repository rather than keeping all your work local?
-I would make a remote repository for projects that I would want to share or collaborative projects.
+	I would make a remote repository for projects that I would want to share or collaborative projects.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-I might want to always to pull changes manually so I can keep track of what changes are going on.
-If git did this automatically, espcially on collaborative projects, I would get somewhat lost.
+	I might want to always to pull changes manually so I can keep track of what changes are going on.
+	If git did this automatically, espcially on collaborative projects, I would get somewhat lost.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	A fork is a copy of repository on github saved in github, used to make commit to repositories you don't have acess.
+	A clone is a copy of a repository on github saved locally, used to make changes offline.
+	A branch is creating variation of the current master branch, used to make experimental changes without affecting the stable master branch.
