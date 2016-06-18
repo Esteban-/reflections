@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	A branch is creating variation of the current master branch, used to make experimental changes without affecting the stable master branch.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	The benefit of having a copy of the last known state of the remote stored locally is that helps in the process of merging the master and origin branch.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I would have to make local copies of the files and set dates for meetings/discussions to get all the members on the same page.
+	It would be easier to start for members that don't know how to use github, however, when it comes to bugs and solve conflicts, it would be much more difficult to manage.
